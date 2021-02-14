@@ -4,12 +4,12 @@
 This project aims to create a representative model of weather across world cities and use that weather data to plan future vacations. 
 
 ## Table of contents
-* [WeatherPy](#https://github.com/mcastl/Python-API-Challenge/tree/main/WeatherPy)
+* [WeatherPy](https://github.com/mcastl/Python-API-Challenge/tree/main/WeatherPy)
 	## Plot Images
 	* [Temperature (F) vs. Latitude](https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Temperature.png)
-	* [Humidity (%) vs. Latitude] (https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/City%20Latitude%20vs%20Humidity.png)
-	* [Cloudiness (%) vs. Latitude] (https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Cloudiness.png)
-	* [Wind Speed (mph) vs. Latitude] (https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Wind%20Speed.png)
+	* [Humidity (%) vs. Latitude](https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/City%20Latitude%20vs%20Humidity.png)
+	* [Cloudiness (%) vs. Latitude](https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Cloudiness.png)
+	* [Wind Speed (mph) vs. Latitude](https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Wind%20Speed.png)
 	
 	## Correlations within notebook
 	* Northern Hemisphere - Temperature (F) vs. Latitude
