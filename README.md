@@ -22,8 +22,8 @@ This project aims to create a representative model of weather across world citie
 	* Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 * [VacationPy](https://github.com/mcastl/Python-API-Challenge/tree/main/VacationPy)
-	* Heat map showing the humidity for every city (https://github.com/mcastl/Python-API-Challenge/blob/main/VacationPy/map.png)
-	* Heeat map showing hotels location (http://localhost:8888/view/Documents/GitHub/Python-API-Challenge/VacationPy/hotels_map.png)
+	* [Heat map showing the humidity for every city](https://github.com/mcastl/Python-API-Challenge/blob/main/VacationPy/map.png)
+	* [Heeat map showing hotels location](http://localhost:8888/view/Documents/GitHub/Python-API-Challenge/VacationPy/hotels_map.png)
 
 ## General info
 **WeatherPy**: Using the Open Weather Map APIs to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
