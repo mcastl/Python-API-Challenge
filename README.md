@@ -6,10 +6,10 @@ This project aims to create a representative model of weather across world citie
 ## Table of contents
 * [WeatherPy](#https://github.com/mcastl/Python-API-Challenge/tree/main/WeatherPy)
 	## Plot Images
-	* [Temperature (F) vs. Latitude](#https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Temperature.png)
-	* [Humidity (%) vs. Latitude] (#https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/City%20Latitude%20vs%20Humidity.png)
-	* [Cloudiness (%) vs. Latitude] (#https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Cloudiness.png)
-	* [Wind Speed (mph) vs. Latitude] (#https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Wind%20Speed.png)
+	* [Temperature (F) vs. Latitude](https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Temperature.png)
+	* [Humidity (%) vs. Latitude] (https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/City%20Latitude%20vs%20Humidity.png)
+	* [Cloudiness (%) vs. Latitude] (https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Cloudiness.png)
+	* [Wind Speed (mph) vs. Latitude] (https://github.com/mcastl/Python-API-Challenge/blob/main/WeatherPy/Latitude%20vs%20Wind%20Speed.png)
 	
 	## Correlations within notebook
 	* Northern Hemisphere - Temperature (F) vs. Latitude
@@ -21,9 +21,9 @@ This project aims to create a representative model of weather across world citie
 	* Northern Hemisphere - Wind Speed (mph) vs. Latitude
 	* Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-* [VacationPy](#https://github.com/mcastl/Python-API-Challenge/tree/main/VacationPy)
-	* Heat map showing the humidity for every city (#https://github.com/mcastl/Python-API-Challenge/blob/main/VacationPy/map.png)
-	* Heeat map showing hotels location (#http://localhost:8888/view/Documents/GitHub/Python-API-Challenge/VacationPy/hotels_map.png)
+* [VacationPy](https://github.com/mcastl/Python-API-Challenge/tree/main/VacationPy)
+	* Heat map showing the humidity for every city (https://github.com/mcastl/Python-API-Challenge/blob/main/VacationPy/map.png)
+	* Heeat map showing hotels location (http://localhost:8888/view/Documents/GitHub/Python-API-Challenge/VacationPy/hotels_map.png)
 
 ## General info
 WeatherPy: Using the Open Weather Map APIs to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
