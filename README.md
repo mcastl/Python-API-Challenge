@@ -26,8 +26,8 @@ This project aims to create a representative model of weather across world citie
 	* Heeat map showing hotels location (http://localhost:8888/view/Documents/GitHub/Python-API-Challenge/VacationPy/hotels_map.png)
 
 ## General info
-WeatherPy: Using the Open Weather Map APIs to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
-VacationPy: Using Google Places API for finding out the cities with the best weather for vacationing.
+**WeatherPy**: Using the Open Weather Map APIs to create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
+**VacationPy**: Using Google Places API for finding out the cities with the best weather for vacationing.
 
 ## Features
 * Analysis of climatological conditions and its relation to latitudes.
@@ -42,3 +42,5 @@ Project is: _finished_, _subject to improvement_.
 Project based on Data Analytics BootCamp homeworks.
 
 ## Resources
+* OpenWeatherMap API
+* Google Places API
